@@ -1,4 +1,4 @@
-# Reconocimiento facial y registro de asistencia y participación para un salón de clases de manera automática. 
+# Automatización del reconocimiento facial y registro de asistencia y participación para un salón de clases.
 Federico Medina García Corral
 
 Michelle Yareni Morales Ramón
