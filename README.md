@@ -8,7 +8,7 @@ Paola Sofia Reyes Mancheno
 María Fernanda Torres Alcubilla
 
 ---
-En el archivo FALTA se encuentran: 
+En el archivo [Metodologia_Reto](Metodologia_Reto.pdf) se encuentran: 
  - Requerimientos del proyecto
  - Memorandum of understanding
  - Restricciones y recursos
