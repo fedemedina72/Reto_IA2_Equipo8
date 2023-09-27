@@ -1,4 +1,4 @@
-# Automatización del reconocimiento facial y registro de asistencia y participación para un salón de clases.
+# Medición de Asistencia y Participación en un Salón de Clase
 Federico Medina García Corral
 
 Michelle Yareni Morales Ramón
