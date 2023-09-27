@@ -8,3 +8,4 @@ En el archivo FALTA se encuentran:
  - Restricciones y recursos
  - Planificación inicial
  - Avances de cada semana
+ - Comunicación con el socio formador
