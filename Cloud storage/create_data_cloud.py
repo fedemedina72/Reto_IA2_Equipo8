@@ -47,7 +47,7 @@ if mat != '':
 
     # Captura de video en tiempo real y escritura en el archivo
     foto = 0
-    num_fotos = 3
+    num_fotos = 30
     while recording and foto < num_fotos:
         (_,im) = webcam.read()
         gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY) 
