@@ -14,7 +14,7 @@ En la carpeta de [EntregablesDocumentacion](EntregablesDocumentacion) se encuent
 
 En la carpeta [PruebasPrimerAvance](PruebasPrimerAvance) se encuentra el primer avance en cuanto al modelo para la toma de video y reconocimiento facial, además de la arquitectura propuesta para nuestro proyecto.
 
-En la carpeta [CreacionModelo] se tienen distintas fotos para el entrenamiento del modelo y el código del modelo implementado.  
+En la carpeta [CreacionModelo](CreacionModelo) se tienen distintas fotos para el entrenamiento del modelo y el código del modelo implementado.  
 
-En la carpeta [Cloud storage] se tiene el código base para subir archivos a la nube.  
+En la carpeta [CloudStorage](CloudStorage) se tiene el código base para subir archivos a la nube.  
 
