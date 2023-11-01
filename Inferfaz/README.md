@@ -6,10 +6,11 @@ En los códigos de plataformas de [docente](plataforma_docente.py) y [estudiante
 
 Algunas claves y llaves no se comparten por motivos de seguridad de la información. 
 
-Timeline.
+---
+## Timeline.
 
-Completado. Identificación de credenciales, obtención de fotografías confiables para el entrenamiento del modelo, conexión con la nube (Cloud Storage y Firestore), creación de cuentas y dirigir a la plataforma correspondiente (estudiante o docente)
+**Completado.** Identificación de credenciales, obtención de fotografías confiables para el entrenamiento del modelo, conexión con la nube (Cloud Storage y Firestore), creación de cuentas y dirigir a la plataforma correspondiente (estudiante o docente)
 
-Ejecución. Configuración de las funciones y atributos de las pestañas de navegación en las plataformas y cursos relacionados a cada cuenta. 
+**Ejecución.** Configuración de las funciones y atributos de las pestañas de navegación en las plataformas y cursos relacionados a cada cuenta. 
 
-Pendientes. Conexión con el modelo para la generación de visualizaciones.
+**Pendientes.** Conexión con el modelo para la generación de visualizaciones.
