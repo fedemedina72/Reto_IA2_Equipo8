@@ -8,3 +8,5 @@ Dentro de dicha carpeta podemos observar que hay distintos archivos y carpetas q
 Después, tenemos el archivo [Benchmark.ipynb](Benchmark.ipynb) en donde se tiene el modelo de Haar Cascade, tanto la recolección de datos, el entrenamiento y la ejecución de este. Dicho archivo va de la mano con el [haarcascade_frontalface_default.xml](haarcascade_frontalface_default.xml) el cual es el archivo donde se encuentra el modelo de Haar Cascade.
 
 Luego, se tiene el archivo [FaceRecognitionActividad.ipynb](FaceRecognitionActividad.ipynb). Este archivo cuenta con las pruebas de face_recognition y el modelo. Dentro de este se encuentra cuando tolerance = 0.6 debido a que fue el mejor parámetro para la situación problema.
+
+Finalmente, el video donde se explican los modelos se encuentra en el siguiente [link](https://drive.google.com/file/d/1W28H7JenmSwHCghDzUc2ENoEFeT4mnnZ/view?usp=sharing).
