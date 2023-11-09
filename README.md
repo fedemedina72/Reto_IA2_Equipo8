@@ -19,3 +19,5 @@ En la carpeta [CreacionModelo](CreacionModelo) se tienen distintas fotos para el
 En la carpeta [CloudStorage](CloudStorage) se tiene el código base para subir archivos a la nube.  
 
 En la carpeta [Interfaz](Interfaz) se encuentran los códigos para el ingreso de credenciales o creación de cuentas y las plataformas para docentes y estudiantes.
+
+En la carpeta [Actividad_ModelosBenchmark](Actividad_ModelosBenchmark) se encuentran los archivos relacionados a la actividad Momento de Retroalimentación: Reto Modelo y Refinamiento.
