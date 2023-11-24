@@ -1,0 +1,11 @@
+opencv-python-headless
+streamlit-option-menu
+streamlit_option_menu
+altair==5.1.2
+firebase_admin==6.2.0
+gcsfs==2023.10.0
+numpy==1.26.2
+streamlit-webrtc==0.32.0
+pandas==2.1.3
+protobuf==4.25.1
+Pyrebase4==4.7.1
