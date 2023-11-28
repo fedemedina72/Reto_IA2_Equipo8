@@ -9,4 +9,6 @@ Después, tenemos el archivo [Benchmark.ipynb](Benchmark.ipynb) en donde se tien
 
 Luego, se tiene el archivo [FaceRecognitionActividad.ipynb](FaceRecognitionActividad.ipynb). Este archivo cuenta con las pruebas de face_recognition y el modelo. Dentro de este se encuentra cuando tolerance = 0.6 debido a que fue el mejor parámetro para la situación problema.
 
+Por otro lado se encuentra el archivo de [Benchmark_AI.pdf](Benchmark_AI.pdf) en donde se explica con detalle el funcionamiento de la actividad al integrar todos los archivos anteriores para realizar su solución. 
+
 Finalmente, el video donde se explican los modelos se encuentra en el siguiente [link](https://drive.google.com/file/d/1W28H7JenmSwHCghDzUc2ENoEFeT4mnnZ/view?usp=sharing).
