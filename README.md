@@ -10,7 +10,7 @@ María Fernanda Torres Alcubilla
 ---
 El proyecto consiste en desarrollar un sistema de aprendizaje automático que evalúe la eficacia de los cursos universitarios mediante el seguimiento de personas y la identificación de estudiantes y profesores en tiempo real dentro del aula. Este sistema innovador se basa en la recopilación de datos de video en directo de varias aulas, donde se aplicarán algoritmos de reconocimiento facial para identificar y seguir a cada participante de manera única. Además de llevar un registro automático de la asistencia, este sistema será capaz de medir la participación de los estudiantes. Tanto la asistencia como participación podrán ser monitoreadas por los profesores a través de una plataforma, y en esta misma, los estudiantes podrán observar su desempeño. En conjunto, esto permitirá a la universidad evaluar de manera precisa y objetiva el desempeño de sus cursos.
 
-En la carpeta de [EntregablesDocumentacion](EntregablesDocumentacion) se encuentran los archivos de Metodología del proyecto, Privacidad de datos y Reto Documentación, en el primero se establecen especificaciones y acuerdos del proyecto, el segundo se establecen detalles y pautas del proyecto en cuanto a la seguridad de la información y finalmente el tercero muestra la documentación de la propuesta, a fecha de 28 de Noviembre de 2023. 
+En la carpeta de [EntregablesDocumentacion](EntregablesDocumentacion) se encuentran los archivos de Metodología del proyecto, Privacidad de datos, Reto Documentación y Reto Evaluación, en el primero se establecen especificaciones y acuerdos del proyecto, el segundo se establecen detalles y pautas del proyecto en cuanto a la seguridad de la información, el tercero muestra la documentación de la propuesta y finalmente el cuarto realiza la comparación y evaluación de los modelos utilizados. Todo a fecha de 28 de Noviembre de 2023. 
 
 En la carpeta [Interfaz](Interfaz) se encuentran los códigos para la interfaz, así como los archivos a necesitar, con esta se puede desplegar la web app para el ingreso de credenciales, creación de cuentas y las plataformas para docentes y estudiantes.
 
@@ -27,8 +27,6 @@ En la carpeta [Actividad_ModelosBenchmark](Actividad_ModelosBenchmark) se encuen
 En esta sección se especificará los comentarios dados por maestrxs de la clase, y de qué forma fueron agregados a los entregables.
 
 ### Comentarios Metodología del proyecto. Carpeta [EntregablesDocumentacion](EntregablesDocumentacion)
-
-Cambios al memorandum
 
 **Levantamiento de requerimientos:** 
 - _Iván Mauricio Amaya Contreras:_ Faltan requerimientos asociados a la administracióny el portal
@@ -52,5 +50,8 @@ Cambios al memorandum
 
 **Apartado comunicación socio:**
 - _Julio Antonio Juárez Jiménez:_  El repositorio incluye un documento que contiene un apartado de comunicación con el socio formador. Se recomienda poner ésto por separado en un archivo o carpeta.
-- **_Correcciones:_** Se agrega al repositorio una carpeta con las evidencias de comunicación.
+**_Correcciones:_** Se agrega al repositorio una carpeta con las evidencias de comunicación.
 
+### Comentarios Reto Evaluación. Carpeta [EntregablesDocumentacion](EntregablesDocumentacion)
+- Revisión de ciertas traducciones, evitar términos en otros idiomas.
+**_Correcciones:_** Se realiza la corrección de las palabras mencionadas.
