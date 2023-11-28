@@ -203,6 +203,13 @@ if user != 'LogOut':
                         with todo:
                             #st.write(df_total.set_index('Matrícula'))
                             st.table(df_total.set_index('Matrícula').style.applymap(color_survived, subset=pd.IndexSlice[:, columnas_a]))
+                            st.download_button(
+                               'Descargar csv',
+                               df_total.set_index('Matrícula').to_csv(),
+                               "ParticipacionAsistenciaFechas" + curso + ".csv",
+                               "text/csv",
+                               key='descargar-csv'
+                            )
 
                     # %% Ciertxs alumnxs
                     elif alumnx_selec and ~('Todxs' in alumnx_selec):
@@ -233,6 +240,13 @@ if user != 'LogOut':
                         with todo:
                             st.table(df_graf.set_index('Matrícula').style.applymap(color_survived, subset=pd.IndexSlice[:, columnas_a]))
                             #st.write(df_graf.set_index('Matrícula'))
+                            st.download_button(
+                                           'Descargar csv',
+                                           df_graf.set_index('Matrícula').to_csv(),
+                                           "ParticipacionAsistencia" + curso + ".csv",
+                                           "text/csv",
+                                           key='descargar-csv'
+                                        )
 
                 # %% FECHA ÚNICA
                 elif fecha_selec:
@@ -268,6 +282,12 @@ if user != 'LogOut':
                             st.toast('¡Cambios guardados!')
 
                         df_final = df[['Matrícula', 'Asistencia', 'Participacion']]
+
+                        st.download_button('Descargar csv',
+                                           df_final.set_index('Matrícula').to_csv(),
+                                           "ParticipacionAsistencia" + curso + '_' + fecha_selec + ".csv",
+                                           "text/csv",
+                                           key='descargar-csv')
 
                     with col2:
                         asistencia_plot(['Asistencia'], df_final)
