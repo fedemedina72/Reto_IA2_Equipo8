@@ -6,8 +6,9 @@ En el código de [Modelo.ipynb](Modelo.ipynb) se encuentra el modelo, en el cual
 
 ## Timeline.
 
-**Completado.** Reconocimiento facial y de pose a través de una cámara exterior a un grupo de personas a una distancia adecuada para un salón de clases prueba. 
+**Completado.** 
+Reconocimiento facial y de pose a través de una cámara exterior a un grupo de personas a una distancia adecuada para un salón de clases prueba. 
 
-**Ejecución.** Detección de participación (levantar la mano) e integración de ambos modelos para detectar a la persona que levanta la mano.
+Detección de participación (levantar la mano) e integración de ambos modelos para detectar a la persona que levanta la mano.
 
-**Pendientes.** Conteo de asistencia y participación en tiempo real, así como la integración con la interfaz.
+Conteo de asistencia y participación en tiempo real, así como la integración con la interfaz.
