@@ -1,4 +1,4 @@
-La interfaz se puede consultar en este [link](https://class-snap.streamlit.app), con los siguientes correos y contraseñas respectivamente (separadas por un //)
+La interfaz se puede consultar en este [link](https://class-snap.streamlit.app), con los siguientes correos y contraseñas de prueba respectivamente (separadas por //)
 
 Docente: profe1@tec.mx // 123456
 
