@@ -29,7 +29,7 @@ En esta sección se especificará los comentarios dados por maestrxs de la clase
 ### Comentarios Metodología del proyecto. Carpeta [EntregablesDocumentacion](EntregablesDocumentacion)
 
 **Levantamiento de requerimientos:** 
-- _Iván Mauricio Amaya Contreras:_ Faltan requerimientos asociados a la administracióny el portal
+- _Iván Mauricio Amaya Contreras:_ Faltan requerimientos asociados a la administración y el portal
 - _Julio Antonio Juárez Jiménez:_ Se sugieren dos cosas: (1) completar su lista de requerimientos (por ejemplo, incluir el requerimiento de tablero de control) y (2) categorizar cada requerimiento como funcional o no funcional, además de necesario, importante o deseable (por ejemplo, el reconocimiento de rostro es un requisito funcional necesario, mientras que la base de datos de entrenamiento y pruebas es un requerimiento no funcional deseable).
 **_Correcciones:_** Se agregaron los requerimientos, además de la categorización por necesario o deseable para cada uno de los requerimientos.
 
